@@ -5,14 +5,24 @@
 
 .nameText {
     color:white;
+    margin-top:150px;
 }
 
 #skills {
     min-height:600px;
-    background-color:red;
+    background-color:#f2f2f7;
 }
 
 #aboutMe {
     min-height:600px;
-    background-color:blue;
+    background-color:slategray;
+}
+
+#footer {
+    background-color: #262626;
+    min-height: 450px;
+}
+
+#skillImg {
+    max-width: 125px;
 }
