@@ -1,0 +1,18 @@
+#nameDisplay {
+    min-height:600px;
+    background-color:slategray;
+}
+
+.nameText {
+    color:white;
+}
+
+#skills {
+    min-height:600px;
+    background-color:red;
+}
+
+#aboutMe {
+    min-height:600px;
+    background-color:blue;
+}
